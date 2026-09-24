@@ -4,6 +4,10 @@
 
 Proyecto para practicar **pruebas unitarias en JavaScript** utilizando Jest. Se crearon diferentes funciones y pruebas para comprobar sus resultados.
 
+## Objetivo
+
+Practicar el proceso de **testing en JavaScript**, desde la creación de funciones y pruebas hasta la identificación y corrección de errores.
+
 ## Tecnologías
 
 - JavaScript
@@ -37,4 +41,7 @@ Ejemplo:
 ```js
 test("$1000 menos el 20% es igual a 800", () => {
     expect(funciones.calcularDescuento(1000, 20)).toBe(800);
-});
+});`
+
+
+
